@@ -1,0 +1,19 @@
+.style{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.gene{
+    background-color: black;
+}
+
+.card{
+    background-color: rgb(255, 77, 77);
+    
+}
+.titulo{
+    margin-left: 100px;
+    margin-top: 10px;
+    color:aliceblue;
+}
